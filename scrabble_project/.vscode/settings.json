@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "queue": "cpp",
-        "bitset": "cpp",
-        "algorithm": "cpp",
-        "format": "cpp"
-    }
-}
